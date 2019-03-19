@@ -16,4 +16,4 @@ I am using Random Forest Regressor to build the model.
 Then, predicted prices is saved in submission.csv for test data
 
 ### Error Calculation
-I am using Mean Absolute Percentage Error to measure the error on train and test sample separately.
+I am using Mean Absolute Percentage Error to measure the error on test sample.
